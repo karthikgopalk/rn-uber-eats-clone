@@ -1,6 +1,6 @@
 # Uber Eats Clone
 
-##URL: https://snack.expo.dev/@karthikgopal/1cb273
+## URL: https://snack.expo.dev/@karthikgopal/1cb273
 
 ## 🚀 How to use
 
